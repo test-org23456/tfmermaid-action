@@ -1,4 +1,4 @@
-name: tfmermaid example
+name: tfmermaid example1
 on:
   push:
     branches:
